@@ -1,0 +1,6 @@
+C:\Users\Bartek\source\repos\cw5\cw5\obj\Debug\cw5.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\cw5\cw5\bin\Debug\cw5.exe.config
+C:\Users\Bartek\source\repos\cw5\cw5\bin\Debug\cw5.exe
+C:\Users\Bartek\source\repos\cw5\cw5\bin\Debug\cw5.pdb
+C:\Users\Bartek\source\repos\cw5\cw5\obj\Debug\cw5.exe
+C:\Users\Bartek\source\repos\cw5\cw5\obj\Debug\cw5.pdb
